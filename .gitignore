@@ -1,0 +1,6 @@
+*.obj
+*.log
+*/Debug/
+*/Release/
+*.pcm
+*.bak
